@@ -2,7 +2,7 @@
 
 //variables
 
-env.COMPONENT = "catalogue"
+env.COMPONENT = "catalogueee"
 env.BUILD_LABEL = "WORKSTATION"
 
 //library groovy file
